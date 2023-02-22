@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第i篇文章</title>
+      <link href="/post/5c2fafc7.html"/>
+      <url>/post/5c2fafc7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第i篇文章"><a href="#这是我的第i篇文章" class="headerlink" title="这是我的第i篇文章"></a>这是我的第i篇文章</h2><div class="note default simple"><p>default 提示块标签</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第n篇文章</title>
+      <link href="/post/5c2fafc8.html"/>
+      <url>/post/5c2fafc8.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第n篇文章"><a href="#这是我的第n篇文章" class="headerlink" title="这是我的第n篇文章"></a>这是我的第n篇文章</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
