@@ -1,1 +1,1 @@
-var posts=["2023/02/10/hello-world/","2023/03/18/install/","2023/02/10/主题升级方法/","2022/10/26/即刻短文部署/","2023/02/10/插件/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/02/10/hello-world/","2023/03/22/install/","2023/02/10/主题升级方法/","2022/10/26/即刻短文部署/","2023/02/10/插件/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
